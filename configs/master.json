@@ -1,0 +1,8 @@
+{
+  "address": "0.0.0.0",
+  "port": 9000,
+  "data_dir": "./data/master",
+  "replica_count": 1,
+  "heartbeat_period": 3000000000,
+  "meta_db_path": "./data/master/meta.db"
+}

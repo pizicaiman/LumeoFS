@@ -1,0 +1,25 @@
+{
+  "node_id": "master-1",
+  "address": "0.0.0.0",
+  "port": 9000,
+  "raft_port": 9100,
+  "data_dir": "./data/master-1",
+  "replica_count": 1,
+  "election_timeout": 3000,
+  "heartbeat_interval": 300,
+  "heartbeat_period": 3000,
+  "peers": [
+    {
+      "node_id": "master-2",
+      "address": "127.0.0.1",
+      "port": 9002,
+      "raft_port": 9102
+    },
+    {
+      "node_id": "master-3",
+      "address": "127.0.0.1",
+      "port": 9004,
+      "raft_port": 9104
+    }
+  ]
+}

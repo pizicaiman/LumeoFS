@@ -1,0 +1,11 @@
+{
+  "node_id": "node-1",
+  "address": "0.0.0.0",
+  "port": 9001,
+  "master_address": "127.0.0.1",
+  "master_port": 9000,
+  "data_dir": "./data/node1",
+  "wal_dir": "./data/node1/wal",
+  "heartbeat_period": 3000000000,
+  "max_chunk_size": 67108864
+}
