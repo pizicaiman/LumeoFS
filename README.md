@@ -337,9 +337,9 @@ kill <PID>  # 或 taskkill //PID <PID> (Windows)
 
 ## 👥 联系方式
 
-- **项目地址**：https://github.com/yourusername/LumeoFS
-- **问题反馈**：https://github.com/yourusername/LumeoFS/issues
-- **邮箱**：your.email@example.com
+- **项目地址**：https://github.com/pizicaiman/LumeoFS
+- **问题反馈**：https://github.com/pizicaiman/LumeoFS/issues
+- **邮箱**：cai.jianfeng91@gmail.com
 
 ---
 

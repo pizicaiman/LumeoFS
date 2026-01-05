@@ -337,9 +337,9 @@ This project is licensed under the Apache License 2.0 License - see the [LICENSE
 
 ## 👥 Contact
 
-- **Project Repository**: https://github.com/yourusername/LumeoFS
-- **Issue Tracker**: https://github.com/yourusername/LumeoFS/issues
-- **Email**: your.email@example.com
+- **Project Repository**: https://github.com/pizicaiman/LumeoFS
+- **Issue Tracker**: https://github.com/pizicaiman/LumeoFS/issues
+- **Email**: cai.jianfeng91@gmail.com
 
 ---
 
