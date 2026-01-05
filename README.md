@@ -331,7 +331,7 @@ kill <PID>  # 或 taskkill //PID <PID> (Windows)
 
 ## 📄 开源协议
 
-本项目采用 MIT 协议，详见 [LICENSE](LICENSE) 文件。
+本项目采用 Apache License 2.0 协议，详见 [LICENSE](LICENSE) 文件。
 
 ---
 
